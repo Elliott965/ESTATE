@@ -1,5 +1,8 @@
 {
   "projects": {
-    "default": "ingig-live"
-  }
+    "default": "ingig-live",
+    "development": "web3-8bd3a"
+  },
+  "targets": {},
+  "etags": {}
 }
